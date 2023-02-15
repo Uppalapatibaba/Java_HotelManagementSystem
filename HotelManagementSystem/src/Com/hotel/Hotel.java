@@ -1,4 +1,4 @@
-package com.hotel;
+package Com.hotel;
 
 import java.io.File;
 import java.io.FileInputStream;
